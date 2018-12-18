@@ -1,6 +1,6 @@
 package com.aa.springbootmybatis.domain.service;
 
-import domain.entity.TUser;
+import com.aa.springbootmybatis.domain.entity.TUser;
 import com.baomidou.mybatisplus.service.IService;
 
 /**

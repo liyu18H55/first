@@ -1,8 +1,8 @@
 package com.aa.springbootmybatis.domain.service.impl;
 
-import domain.entity.User;
-import domain.mapper.UserMapper;
-import domain.service.UserService;
+import com.aa.springbootmybatis.domain.entity.User;
+import com.aa.springbootmybatis.domain.mapper.UserMapper;
+import com.aa.springbootmybatis.domain.service.UserService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

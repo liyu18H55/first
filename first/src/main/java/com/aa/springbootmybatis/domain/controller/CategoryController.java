@@ -4,6 +4,8 @@ package com.aa.springbootmybatis.domain.controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.sound.midi.Soundbank;
+
 /**
  * <p>
  * InnoDB free: 3072 kB 前端控制器

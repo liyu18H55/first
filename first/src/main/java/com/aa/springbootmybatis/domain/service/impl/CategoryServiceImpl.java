@@ -1,8 +1,8 @@
 package com.aa.springbootmybatis.domain.service.impl;
 
-import domain.entity.Category;
-import domain.mapper.CategoryMapper;
-import domain.service.CategoryService;
+import com.aa.springbootmybatis.domain.entity.Category;
+import com.aa.springbootmybatis.domain.mapper.CategoryMapper;
+import com.aa.springbootmybatis.domain.service.CategoryService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

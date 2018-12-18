@@ -1,8 +1,8 @@
 package com.aa.springbootmybatis.domain.service.impl;
 
-import domain.entity.Carousel;
-import domain.mapper.CarouselMapper;
-import domain.service.CarouselService;
+import com.aa.springbootmybatis.domain.entity.Carousel;
+import com.aa.springbootmybatis.domain.mapper.CarouselMapper;
+import com.aa.springbootmybatis.domain.service.CarouselService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

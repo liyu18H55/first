@@ -1,8 +1,8 @@
 package com.aa.springbootmybatis.domain.service.impl;
 
-import domain.entity.Zhangjie;
-import domain.mapper.ZhangjieMapper;
-import domain.service.ZhangjieService;
+import com.aa.springbootmybatis.domain.entity.Zhangjie;
+import com.aa.springbootmybatis.domain.mapper.ZhangjieMapper;
+import com.aa.springbootmybatis.domain.service.ZhangjieService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

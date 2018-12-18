@@ -1,6 +1,6 @@
 package com.aa.springbootmybatis.domain.service;
 
-import domain.entity.Carousel;
+import com.aa.springbootmybatis.domain.entity.Carousel;
 import com.baomidou.mybatisplus.service.IService;
 
 /**

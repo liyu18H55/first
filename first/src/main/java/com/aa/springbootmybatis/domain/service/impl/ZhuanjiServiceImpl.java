@@ -1,8 +1,8 @@
 package com.aa.springbootmybatis.domain.service.impl;
 
-import domain.entity.Zhuanji;
-import domain.mapper.ZhuanjiMapper;
-import domain.service.ZhuanjiService;
+import com.aa.springbootmybatis.domain.entity.Zhuanji;
+import com.aa.springbootmybatis.domain.mapper.ZhuanjiMapper;
+import com.aa.springbootmybatis.domain.service.ZhuanjiService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

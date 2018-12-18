@@ -1,8 +1,8 @@
 package com.aa.springbootmybatis.domain.service.impl;
 
-import domain.entity.TUser;
-import domain.mapper.TUserMapper;
-import domain.service.TUserService;
+import com.aa.springbootmybatis.domain.entity.TUser;
+import com.aa.springbootmybatis.domain.mapper.TUserMapper;
+import com.aa.springbootmybatis.domain.service.TUserService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
